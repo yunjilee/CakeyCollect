@@ -1,10 +1,3 @@
-Group Members:
-Yunji Lee yunjilee@usc.edu
-Anne Dao annedao@usc.edu
-Christie Xu xuchrist@usc.edu
-Alexander Chua chuaa@usc.edu
-Emy Huang emyhuang@usc.edu
-
 To play the game:
 1. Import cakeyScript.sql into MySQL and run it 
 2. Run Server.java
